@@ -25,7 +25,7 @@ export default class UsersController {
             messages: {
                 'name.required': 'Name is required.',
                 'userName.required': 'User name is required.',
-                'mobileNumber.required': 'Mobile number is required.',
+                'mobileNumber.required': 'Phone number is required.',
                 'email.required': 'Email is required.',
                 'password.required': 'Password is required.',
             }
